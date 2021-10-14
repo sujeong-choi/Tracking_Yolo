@@ -2,7 +2,7 @@
 ### object tracking with Yolo
 -----------------------
 ## algorithm
-1. 
+![Untitled Diagram drawio](https://user-images.githubusercontent.com/62283017/137351570-0581accd-cafa-463c-a435-52f1128c38e3.png)
 -----------------------
 ## 사용한 file
 - .weight file : 기존 YOLOv4 weight파일 customize ( class = product , barcode )
