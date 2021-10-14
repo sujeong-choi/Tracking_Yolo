@@ -7,4 +7,6 @@
 ## 사용한 file
 - .weight file : 기존 YOLOv4 weight파일 customize ( class = product , barcode )
 - .cfg file : 기존 YOLOv4 cfg파일 class = 2 에 맞게 customize
-- .name file : product, barcoe 임력
+- 
+## 결과 예시
+gdrive link : https://drive.google.com/drive/folders/1QG4U-RkEe0f9t6c7p1YbnlnXCAOzQIY5?usp=sharing
